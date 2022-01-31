@@ -9,3 +9,4 @@ Code supplement for our paper
 6. **TODO**: NLI training
 7. **TODO**: Full pipeline testing
 8. **TODO**: 🤗 dataset links: CsFEVER, CsFEVER-NLI, CtkFACTS, CtkFACTS-NLI
+9. **TODO**: 🤗 transformer links: XLMR@SQUAD2&CTKFacts-NLI, XLMR@XNLI&CsFEVER
