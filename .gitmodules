@@ -1,3 +1,6 @@
 [submodule "latex"]
 	path = latex
 	url = https://github.com/aic-factcheck/lrec2022
+[submodule "submodule-test"]
+	path = submodule-test
+	url = https://gitlab.fel.cvut.cz/ullriher/gitlab-submodule
