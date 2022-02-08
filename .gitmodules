@@ -1,0 +1,3 @@
+[submodule "latex"]
+	path = latex
+	url = https://github.com/aic-factcheck/lrec2022
