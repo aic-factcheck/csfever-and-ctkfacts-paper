@@ -7,3 +7,6 @@
 [submodule "csfever"]
 	path = csfever
 	url = https://github.com/aic-factcheck/csfever
+[submodule "annotations-platform"]
+	path = annotations-platform
+	url = https://github.com/aic-factcheck/fcheck-annotations-platform
