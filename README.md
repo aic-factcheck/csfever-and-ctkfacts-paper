@@ -23,4 +23,4 @@ The DR and NLI models we established as baselines for our datasets are to be fou
 - Todo
 #### ⊨ NLI models
 - Todo 🌐 **XLM-RoBERTa@SQuAD2@CtkfactsNLI**
-- Todo 🌐 **XLM-RoBERTa@XNLI@CsFEVER**
+- Todo 🌡 **XLM-RoBERTa@XNLI@CsFEVER**
