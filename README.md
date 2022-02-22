@@ -8,7 +8,8 @@ Please, cite the paper when using our datasets or models presented in this repos
 2. **TODO**: DR training & eval scripts
 3. **TODO**: Claimgen (DB Wrapper + dict selector) app
 4. **[annotations-platform](https://github.com/aic-factcheck/csfever)**: our custom-built annotation platform, written in [Yii2](https://www.yiiframework.com/) framework, relies on a **db wrapper** application serving CTK paragraphs in parallel
-6. **TODO**: Dataset export & splitting scripts ✔
+6. **[dataset](https://github.com/aic-factcheck/ctkfacts)**: 🌐 CTKFacts dataset export & splitting scripts
+   - **[dataset/notebooks](https://github.com/aic-factcheck/ctkfacts/notebooks)** source codes used for 🌐 CTKFacts [splitting](https://github.com/aic-factcheck/ctkfacts/blob/c62ae4373bc2332cbc29dfe8b6b356348558b476/notebooks/datasets.ipynb), [measuring aggreement](https://github.com/aic-factcheck/ctkfacts/blob/c62ae4373bc2332cbc29dfe8b6b356348558b476/notebooks/agreement.ipynb) using Krippendorff's ⍺ metric and [NLI model training](https://github.com/aic-factcheck/ctkfacts/blob/c62ae4373bc2332cbc29dfe8b6b356348558b476/notebooks/training.ipynb) and [validation](https://github.com/aic-factcheck/ctkfacts/blob/c62ae4373bc2332cbc29dfe8b6b356348558b476/notebooks/validation.ipynb)
 7. **TODO**: NLI training ✔️
 8. **TODO**: Full pipeline testing
 9. **TODO**: 🤗 dataset links: CsFEVER, CsFEVER-NLI, CtkFACTS, CtkFACTS-NLI
