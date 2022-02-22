@@ -7,3 +7,12 @@
 [submodule "annotations-platform"]
 	path = annotations-platform
 	url = https://github.com/aic-factcheck/fcheck-annotations-platform
+[submodule "datasets/ctkfacts_nli"]
+	path = datasets/ctkfacts_nli
+	url = https://huggingface.co/datasets/ctu-aic/ctkfacts_nli
+[submodule "datasets/csfever"]
+	path = datasets/csfever
+	url = https://huggingface.co/datasets/ctu-aic/csfever
+[submodule "datasets/csfever_nli"]
+	path = datasets/csfever_nli
+	url = https://huggingface.co/datasets/ctu-aic/csfever_nli
