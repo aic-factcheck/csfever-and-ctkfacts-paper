@@ -11,7 +11,7 @@ Please, cite the paper when using our datasets or models presented in this repos
 5. **[dataset](https://github.com/aic-factcheck/ctkfacts)**: 🌐 CTKFacts dataset export & splitting scripts
    - **[dataset/notebooks](https://github.com/aic-factcheck/ctkfacts/notebooks)**: notebooks presenting codes used for 🌐 CTKFacts [splitting](https://github.com/aic-factcheck/ctkfacts/blob/c62ae4373bc2332cbc29dfe8b6b356348558b476/notebooks/datasets.ipynb), [measuring aggreement](https://github.com/aic-factcheck/ctkfacts/blob/c62ae4373bc2332cbc29dfe8b6b356348558b476/notebooks/agreement.ipynb) using Krippendorff's ⍺ metric and [NLI model training](https://github.com/aic-factcheck/ctkfacts/blob/c62ae4373bc2332cbc29dfe8b6b356348558b476/notebooks/training.ipynb) and [validation](https://github.com/aic-factcheck/ctkfacts/blob/c62ae4373bc2332cbc29dfe8b6b356348558b476/notebooks/validation.ipynb)
 6. **TODO**: Full pipeline testing
-7.  **TODO**: 🤗 transformer links: XLMR@SQUAD2&CTKFacts-NLI, XLMR@XNLI&CsFEVER
+7. 🤗 transformer links: [XLMR@SQUAD2&CTKFacts-NLI](https://huggingface.co/ctu-aic/xlm-roberta-large-squad2-ctkfacts), [XLMR@XNLI&CsFEVER](https://huggingface.co/ctu-aic/xlm-roberta-large-xnli-csfever)
 
 ### 🤗 Datasets
 Published datasets ([🌡 CsFEVER](https://huggingface.co/datasets/ctu-aic/csfever), [🌡 CsFEVER-NLI](https://huggingface.co/datasets/ctu-aic/csfever_nli), [🌐 CtkFACTS-NLI](https://huggingface.co/datasets/ctu-aic/ctkfacts_nli)) are released on our [🤗 Huggingface dataset repository](https://huggingface.co/ctu-aic) and referred to in this codebase using git submodules nested in the **[datasets](datasets)** directory
