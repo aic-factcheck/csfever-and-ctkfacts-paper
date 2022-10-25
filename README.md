@@ -21,6 +21,12 @@ The DR and NLI models we established as baselines for our datasets are to be fou
 
 #### 🔎 DR models
 - Todo
-#### ⊨ NLI models
-- https://huggingface.co/ctu-aic/xlm-roberta-large-squad2-ctkfacts 🌐 **XLM-RoBERTa@SQuAD2@CtkfactsNLI**
-- https://huggingface.co/ctu-aic/xlm-roberta-large-xnli-csfever 🌡 **XLM-RoBERTa@XNLI@CsFEVER**
+#### ⊨ NLI models (sota bold)
+- https://huggingface.co/ctu-aic/xlm-roberta-large-xnli-ctkfacts_nli 🌐 **XLM-RoBERTa@XNLI@CTKFacts-NLI**
+- https://huggingface.co/ctu-aic/xlm-roberta-large-squad2-ctkfacts_nli 🌐 **XLM-RoBERTa@XNLI@CTKFacts-NLI**
+- https://huggingface.co/ctu-aic/xlm-roberta-large-squad2-csfever_nearestp 🌡 **XLM-RoBERTa@SQUAD2@CsFEVER (*NearestP*)**
+- https://huggingface.co/ctu-aic/bert-base-multilingual-cased-csfever_nearestp  🌡 **M-BERT@CsFEVER (*NearestP*)**
+- https://huggingface.co/ctu-aic/xlm-roberta-large-squad2-csfever_nli 🤒 **XLM-RoBERTa@SQUAD2@CsFEVER-NLI**
+- https://huggingface.co/ctu-aic/xlm-roberta-large-xnli-csfever_nli  🤒 **XLM-RoBERTa@XNLI@CsFEVER-NLI**
+- https://huggingface.co/ctu-aic/xlm-roberta-large-xnli-enfever_nli 🇬🇧 **XLM-RoBERTa@XNLI@EnFEVER-NLI**
+- https://huggingface.co/ctu-aic/xlm-roberta-large-squad2-enfever_nli 🇬🇧 **XLM-RoBERTa@SQUAD2@EnFEVER-NLI**
