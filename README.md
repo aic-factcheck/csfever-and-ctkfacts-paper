@@ -21,7 +21,7 @@ The DR and NLI models we established as baselines for our datasets are to be fou
 
 #### 🔎 DR models
 - Todo
-#### ⊨ NLI models (sota bold)
+#### ⊨ NLI models (two best-performing, benchmark in paper)
 - https://huggingface.co/ctu-aic/xlm-roberta-large-xnli-ctkfacts_nli 🌐 **XLM-RoBERTa@XNLI@CTKFacts-NLI**
 - https://huggingface.co/ctu-aic/xlm-roberta-large-squad2-ctkfacts_nli 🌐 **XLM-RoBERTa@XNLI@CTKFacts-NLI**
 - https://huggingface.co/ctu-aic/xlm-roberta-large-squad2-csfever_nearestp 🌡 **XLM-RoBERTa@SQUAD2@CsFEVER (*NearestP*)**
