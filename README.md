@@ -14,7 +14,7 @@ Please, cite the paper when using our datasets or models presented in this repos
 7. 🤗 transformer links: [XLMR@SQUAD2&CTKFacts-NLI](https://huggingface.co/ctu-aic/xlm-roberta-large-squad2-ctkfacts), [XLMR@XNLI&CsFEVER](https://huggingface.co/ctu-aic/xlm-roberta-large-xnli-csfever)
 
 ### 🤗 Datasets
-Published datasets ([🌡 CsFEVER](https://huggingface.co/datasets/ctu-aic/csfever), [🌡 CsFEVER-NLI](https://huggingface.co/datasets/ctu-aic/csfever_nli), [🌐 CtkFACTS-NLI](https://huggingface.co/datasets/ctu-aic/ctkfacts_nli)) are released on our [🤗 Huggingface dataset repository](https://huggingface.co/ctu-aic) and referred to in this codebase using git submodules nested in the **[datasets](datasets)** directory
+Published datasets ([🌡 CsFEVER](https://huggingface.co/datasets/ctu-aic/csfever), [🌡 CsFEVER-NLI](https://huggingface.co/datasets/ctu-aic/csfever_nli), [🌐 CtkFACTS-NLI](https://huggingface.co/datasets/ctu-aic/ctkfacts_nli) and [🌐 CtkFACTS](https://huggingface.co/datasets/ctu-aic/ctkfacts)) are released on our [🤗 Huggingface dataset repository](https://huggingface.co/ctu-aic) and referred to in this codebase using git submodules nested in the **[datasets](datasets)** directory
 
 ### 🤖 Models
 The DR and NLI models we established as baselines for our datasets are to be found in on our [🤗 Huggingface model repository](https://huggingface.co/ctu-aic) and can be navigated using the following map
